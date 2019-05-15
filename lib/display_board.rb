@@ -5,7 +5,7 @@ board = [" "," "," "," "," "," "," "," "," "]
 
 
 def display_board(board)
-  puts "The position is #{board}"
+  puts "The position is #{board[#]}"
 end
 
 display_board(board)
